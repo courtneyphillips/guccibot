@@ -1,0 +1,28 @@
+{
+  "name": "guccibot",
+  "version": "1.0.0",
+  "description": "just playing with a discord bot for fun, don't expect much.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/courtneyphillips/guccibot.git"
+  },
+  "keywords": [
+    "discord",
+    "discord",
+    "bot",
+    "discord.js"
+  ],
+  "author": "Courtney Phillips",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/courtneyphillips/guccibot/issues"
+  },
+  "homepage": "https://github.com/courtneyphillips/guccibot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
